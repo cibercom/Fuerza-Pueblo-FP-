@@ -15,7 +15,7 @@
 <h3>
   Conversatorio del Presidente Leonel Fernandez a estudiantes...
   https://m.youtube.com/watch?v=oJ__1xb7o_w&pp=ygUtY29udmVyc2FjaW9uIGRlIGxlb25lbCBhIGVzdHVkaWFudGVzIGRlIHB1Y21t
-</h3>
+</h3><h6>1:03:25</h6>
 
 </body>
 </html>
